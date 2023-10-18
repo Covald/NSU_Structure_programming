@@ -1,0 +1,3 @@
+C:/Repo/NSU/NOD&NOK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Repo/NSU/NOD&NOK/cmake-build-debug/CMakeFiles/NOD_NOK.dir
+C:/Repo/NSU/NOD&NOK/cmake-build-debug/CMakeFiles/edit_cache.dir
