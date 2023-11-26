@@ -72,7 +72,6 @@ void write_to_file(const char *filename, item *list) {
 }
 
 int main() {
-    printf("Hello, World!\n");
     item *list = read_file("../input.txt");
 
     int N = sizeof(*list) - 1; //FixMe magic number
