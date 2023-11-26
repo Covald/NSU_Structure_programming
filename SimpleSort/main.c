@@ -80,5 +80,7 @@ int main() {
     BubbleSort(list, N);
 
     write_to_file("../output.txt", list);
+
+    free(list);
     return 0;
 }
