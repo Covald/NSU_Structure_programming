@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define _CRT_SECURE_NO_WARNINGS
-
+#define INPUTFILE "../input.txt"
+#define OUTPUTFILE "../output.txt"
 char *read_file(int size, const char *filename) {
     FILE *fptr = fopen(filename, "r");
     if (fptr == NULL) {
